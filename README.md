@@ -1,6 +1,6 @@
 # 🚀 Daily AI arXiv Digest
 
-[![Total Papers](https://img.shields.io/badge/paper_today-520+-red)]()
+[![Total Papers](https://img.shields.io/badge/paper_today-519+-red)]()
 [![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/awesome-daily-AI-arxiv/commits/main&query=%24.commit.author.date&label=updated&color=orange)](https://github.com/Tavish9/awesome-daily-AI-arxiv/commits/main/)
 [![arXiv API](https://img.shields.io/badge/powered_by-arXiv_API-009688)](https://arxiv.org/help/api)
 [![License](https://img.shields.io/badge/license-CC_BY--SA_4.0-3989c9)](LICENSE)
@@ -32,7 +32,7 @@
 
 | Category                                                                                | Count |
 | --------------------------------------------------------------------------------------- | ----- |
-| [Artificial Intelligence 🧠](#artificial-intelligence-) | 38    |
+| [Artificial Intelligence 🧠](#artificial-intelligence-) | 37    |
 | [Computation and Language 💬](#computation-and-language-) | 143   |
 | [Computer Vision and Pattern Recognition 📸](#computer-vision-and-pattern-recognition-) | 144   |
 | [Machine Learning 📊](#machine-learning-) | 151   |
@@ -53,12 +53,6 @@
   _Margarita Belova, Jiaxin Xiao, Shikhar Tuli, Niraj K. Jha_
   <details><summary>Abstract</summary>
   Researchers have pursued neurosymbolic artificial intelligence (AI) applications for nearly three decades because symbolic components provide abstraction while neural components provide generalization. Thus, a marriage of the two components can lead to rapid advancements in AI. Yet, the field has not realized this promise since most neurosymbolic AI frameworks fail to scale. In addition, the implicit representations and approximate reasoning of neural approaches limit interpretability and trust. Knowledge graphs (KGs), a gold-standard representation of explicit semantic knowledge, can address the symbolic side. However, automatically deriving reliable KGs from text corpora has remained an open problem. We address these challenges by introducing GraphMERT, a tiny graphical encoder-only model that distills high-quality KGs from unstructured text corpora and its own internal representations. GraphMERT and its equivalent KG form a modular neurosymbolic stack: neural learning of abstractions; symbolic KGs for verifiable reasoning. GraphMERT + KG is the first efficient and scalable neurosymbolic model to achieve state-of-the-art benchmark accuracy along with superior symbolic representations relative to baselines.Concretely, we target reliable domain-specific KGs that are both (1) factual (with provenance) and (2) valid (ontology-consistent relations with domain-appropriate semantics). When a large language model (LLM), e.g., Qwen3-32B, generates domain-specific KGs, it falls short on reliability due to prompt sensitivity, shallow domain expertise, and hallucinated relations. On text obtained from PubMed papers on diabetes, our 80M-parameter GraphMERT yields a KG with a 69.8% FActScore; a 32B-parameter baseline LLM yields a KG that achieves only 40.2% FActScore. The GraphMERT KG also attains a higher ValidityScore of 68.8%, versus 43.0% for the LLM baseline.
-  </details>
-
-- **[Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model](https://arxiv.org/abs/2510.09551)**  `arXiv:2510.09551`  
-  _Gavriel Di Nepi, Federico Siciliano, Fabrizio Silvestri_
-  <details><summary>Abstract</summary>
-  By the end of 2024, Google researchers introduced Titans: Learning at Test Time, a neural memory model achieving strong empirical results across multiple tasks. However, the lack of publicly available code and ambiguities in the original description hinder reproducibility. In this work, we present a lightweight reimplementation of Titans and conduct a comprehensive evaluation on Masked Language Modeling, Time Series Forecasting, and Recommendation tasks. Our results reveal that Titans does not always outperform established baselines due to chunking. However, its Neural Memory component consistently improves performance compared to attention-only models. These findings confirm the model's innovative potential while highlighting its practical limitations and raising questions for future research.
   </details>
 
 - **[Agentic Systems in Radiology: Design, Applications, Evaluation, and Challenges](https://arxiv.org/abs/2510.09404)**  `arXiv:2510.09404`  
