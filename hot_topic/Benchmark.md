@@ -1,4 +1,4 @@
-# 🔍 Benchmark Papers · 2025-11-06
+# 🔍 Benchmark Papers · 2025-11-07
 
 [![Total Papers](https://img.shields.io/badge/Papers-107-2688EB)]()
 [![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/awesome-daily-AI-arxiv/commits/main&query=%24.commit.author.date&label=updated&color=orange)]()
@@ -506,7 +506,7 @@
   </details>
 
 - **[Efficient Topic Extraction via Graph-Based Labeling: A Lightweight Alternative to Deep Models](https://arxiv.org/abs/2511.04248)**  `arXiv:2511.04248`  `cs.CL`  
-  _Salma Mekaooui, Hiba Sofyan, Imane Amaaz, Imane Benchrif, Arsalane Zarghili, Ilham Chaker, et al._
+  _Salma Mekaoui, Hiba Sofyan, Imane Amaaz, Imane Benchrif, Arsalane Zarghili, Ilham Chaker, et al._
   <details open><summary>Abstract</summary>
   Extracting topics from text has become an essential task, especially with the rapid growth of unstructured textual data. Most existing works rely on highly computational methods to address this challenge. In this paper, we argue that probabilistic and statistical approaches, such as topic modeling (TM), can offer effective alternatives that require fewer computational resources. TM is a statistical method that automatically discovers topics in large collections of unlabeled text; however, it produces topics as distributions of representative words, which often lack clear interpretability. Our objective is to perform topic labeling by assigning meaningful labels to these sets of words. To achieve this without relying on computationally expensive models, we propose a graph-based approach that not only enriches topic words with semantically related terms but also explores the relationships among them. By analyzing these connections within the graph, we derive suitable labels that accurately capture each topic's meaning. We present a comparative study between our proposed method and several benchmarks, including ChatGPT-3.5, across two different datasets. Our method achieved consistently better results than traditional benchmarks in terms of BERTScore and cosine similarity and produced results comparable to ChatGPT-3.5, while remaining computationally efficient. Finally, we discuss future directions for topic labeling and highlight potential research avenues for enhancing interpretability and automation.
   </details>
