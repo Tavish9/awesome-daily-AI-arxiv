@@ -1,4 +1,4 @@
-# 🔍 Test-Time-Scaling Papers · 2025-11-21
+# 🔍 Test-Time-Scaling Papers · 2025-11-22
 
 [![Total Papers](https://img.shields.io/badge/Papers-58-2688EB)]()
 [![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/awesome-daily-AI-arxiv/commits/main&query=%24.commit.author.date&label=updated&color=orange)]()
