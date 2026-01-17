@@ -1,4 +1,4 @@
-# 🔍 Diffusion Papers · 2026-01-15
+# 🔍 Diffusion Papers · 2026-01-16
 
 [![Total Papers](https://img.shields.io/badge/Papers-19-2688EB)]()
 [![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/awesome-daily-AI-arxiv/commits/main&query=%24.commit.author.date&label=updated&color=orange)]()
