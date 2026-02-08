@@ -1,4 +1,4 @@
-# 🔍 Embodied_AI Papers · 2026-02-06
+# 🔍 Embodied_AI Papers · 2026-02-07
 
 [![Total Papers](https://img.shields.io/badge/Papers-6-2688EB)]()
 [![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/awesome-daily-AI-arxiv/commits/main&query=%24.commit.author.date&label=updated&color=orange)]()
