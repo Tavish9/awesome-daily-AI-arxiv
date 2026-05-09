@@ -1048,7 +1048,7 @@
   </details>
 
 - **[COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach](https://arxiv.org/abs/2605.06435)**  `arXiv:2605.06435`  
-  _Balakrishnan Vimala, Hii Lee Zing, Laporte Eric_
+  _Vimala Balakrishnan, Lee Zing Hii, Eric Laporte_
   <details><summary>Abstract</summary>
   The use of content features, particularly textual and linguistic for fake news detection is under-researched, despite empirical evidence showing the features could contribute to differentiating real and fake news. To this end, this study investigates a selection of content features such as word bigrams, part of speech distribution etc. to improve fake news detection. We performed a series of experiments on a new dataset gathered during the COVID-19 pandemic and using Decision Tree, K-Nearest Neighbor, Logistic Regression, Support Vector Machine and Random Forest. Random Forest yielded the best results, followed closely by Support Vector Machine, across all setups. In general, both the textual and linguistic features were found to improve fake news detection when used separately, however, combining them into a single model did not improve the detection significantly. Differences were also noted between the use of bigrams and part of speech tags. The study shows that textual and linguistic features can be used successfully in detecting fake news using the traditional machine learning approach as opposed to deep learning.
   </details>
